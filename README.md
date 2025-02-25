@@ -1,12 +1,11 @@
 ## Hi there 👋
-- 🔭 I’m currently working on xRDP a Alternative to windows rdp with type and memory safetu.
-- 🌱 I’m currently learning rust
-- 👯 I’m looking to collaborate on xRDP
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on AutoMateFil which parses your Resume and help to auto fill any form.
+- 🌱 I’m currently learning Go
+- 👯 I’m looking to collaborate on https://effective-ui.vercel.app/
+- 🤔 I’m looking for help with xRDP (Remote Desktop Protocols in Rust)
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: theaditykr@gmail.com
+- ⚡ Fun fact: I'm a Hardcore Gamer & Sports Enthusiast
 
 <!--
 **theadityakr/theadityakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
